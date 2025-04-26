@@ -14,7 +14,7 @@
                                 <div class="swiper-slide">
                                     <div class="col">
                                         <div class="card card-s card-s4 ">
-                                            <span><img src="assets/images/noithat/1pn+.png" ></span>
+                                            <span><img src="assets/images/noithat/2pn+.png" ></span>
                                             <div class="card-body">
                                                 <div class="card-body-wrap">
                                                     <h5 class="card-title"><span>DT thông thủy | 52.7 m2</span></h5>
@@ -44,7 +44,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="button">
-                                                    <button class="btn-button">CĂN HỘ 1PN +</button>
+                                                    <button class="btn-button">CĂN HỘ 2PN +</button>
                                                 </div>
                                             </div>
                                         </div>
@@ -53,7 +53,7 @@
                                 <div class="swiper-slide">
                                     <div class="col">
                                         <div class="card card-s card-s4 ">
-                                            <span><img src="assets/images/noithat/1pn+.png" ></span>
+                                            <span><img src="assets/images/noithat/2pn1.png" ></span>
                                             <div class="card-body">
                                                 <div class="card-body-wrap">
                                                     <h5 class="card-title"><span>DT thông thủy | 52.7 m2</span></h5>
@@ -83,7 +83,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="button">
-                                                    <button class="btn-button">CĂN HỘ 1PN +</button>
+                                                    <button class="btn-button">CĂN HỘ 2PN1</button>
                                                 </div>
                                             </div>
                                         </div>
@@ -92,7 +92,7 @@
                                 <div class="swiper-slide">
                                     <div class="col">
                                         <div class="card card-s card-s4 ">
-                                            <span><img src="assets/images/noithat/1pn+.png" ></span>
+                                            <span><img src="assets/images/noithat/2pn2.png" ></span>
                                             <div class="card-body">
                                                 <div class="card-body-wrap">
                                                     <h5 class="card-title"><span>DT thông thủy | 52.7 m2</span></h5>
@@ -122,7 +122,46 @@
                                                     </div>
                                                 </div>
                                                 <div class="button">
-                                                    <button class="btn-button">CĂN HỘ 1PN +</button>
+                                                    <button class="btn-button">CĂN HỘ 2PN2</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="col">
+                                        <div class="card card-s card-s4 ">
+                                            <span><img src="assets/images/noithat/2pn3.png" ></span>
+                                            <div class="card-body">
+                                                <div class="card-body-wrap">
+                                                    <h5 class="card-title"><span>DT thông thủy | 52.7 m2</span></h5>
+                                                    <div class="card-info" title="">
+                                                        <table>
+                                                            <tr>
+                                                                <td>Phòng Khách + Bếp + Ăn</td>
+                                                                <td>: 22.5 m<sup>2</sup> </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Phòng ngủ 1</td>
+                                                                <td>: 13.1 m<sup>2</sup></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Phòng chức năng</td>
+                                                                <td>: 6.7 m<sup>2</sup></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Logia</td>
+                                                                <td>: 3.7 m<sup>2</sup></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>WC</td>
+                                                                <td>: 5.2 m<sup>2</sup></td>
+                                                            </tr>
+                                                        </table>
+                                                    </div>
+                                                </div>
+                                                <div class="button">
+                                                    <button class="btn-button">CĂN HỘ 2PN3</button>
                                                 </div>
                                             </div>
                                         </div>
