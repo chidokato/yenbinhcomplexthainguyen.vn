@@ -47,7 +47,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="button">
-                                                    <button class="btn-button">CĂN HỘ 2PN +</button>
+                                                    <button class="btn-button">{{$val->tab}}</button>
                                                 </div>
                                             </div>
                                         </div>
