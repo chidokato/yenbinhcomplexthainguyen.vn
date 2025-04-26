@@ -9,7 +9,7 @@
                     <div class="desc">
                         <p>Khám phá những giá trị độc đáo làm nên sức hấp dẫn độc nhất của Yên Bình Complex</p>
                     </div>
-                    <img src="assets/images/48.png">
+                    <img src="assets/images/61.png">
                 </div>
             </div>
             <!-- <div class="col-md-6">
