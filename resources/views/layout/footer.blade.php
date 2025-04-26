@@ -38,11 +38,11 @@
       <div class="s1111">
         <div class="s1112">
           <img src="assets/images/59.png">
-          <p>CHỦ ĐẦU TƯ</p>
+          <p>Chủ đầu tư</p>
         </div>
         <div class="s1113">
           <img src="assets/images/logo-IDC.png">
-          <p>CHỦ ĐẦU TƯ</p>
+          <p>Đại lý phân phối chiến lượng dự án</p>
         </div>
         <div class="s1114">
           <img src="assets/images/55.png">
