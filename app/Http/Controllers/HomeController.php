@@ -40,17 +40,12 @@ class HomeController extends Controller
 
     public function index()
     {
-        $locale = session()->get('locale', 'vi');
         $slider = Slider::orderBy('id', 'desc')->get();
-        $product = Post::where('hot', 'true')->where('sort_by', 'Product')->orderBy('id', 'desc')->take(5)->get();
-        $news = Post::where('sort_by', 'News')->orderBy('id', 'desc')->take(5)->get();
-        $provinces = Province::where('home', 'true')->get();
+        $canho = Section::where('post_id', '701')->get();
 
         return view('pages.home', compact(
             'slider',
-            'product',
-            'news',
-            'provinces',
+            'canho',
 
         ));
     }
