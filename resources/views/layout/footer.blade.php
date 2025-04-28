@@ -25,7 +25,7 @@
     <div class="col-md-5">
       <div class="contact-main">
         <ul>
-          <li><img src="assets/images/53.png"> Phường Đông Tiến và Phường Đồng Tiến, Thành phố Phổ Yên, Tính Thái Nguyên</li>
+          <li><img src="assets/images/53.png"> Phường Đông Tiến, Thành phố Phổ Yên, Tính Thái Nguyên</li>
           <li><a href=""><img src="assets/images/54.png"> Email@gmail.com</a></li>
           <li><a href=""><img src="assets/images/55.png"> Google maps</a></li>
         </ul>
@@ -42,7 +42,7 @@
         </div>
         <div class="s1113">
           <img src="assets/images/logo-IDC.png">
-          <p>Đại lý phân phối chiến lượng dự án</p>
+          <p>Đại lý phân phối chiến lược dự án</p>
         </div>
         <div class="s1114">
           <img src="assets/images/55.png">
