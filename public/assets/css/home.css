@@ -383,7 +383,7 @@ input:focus::placeholder{opacity: 1 !important;}
 .apartment .apartment-slider .card-s span{ background:#003f33; margin:25px; border-radius:35px; padding: 20px; height:350px }
 .apartment .apartment-slider .card-s span img{ position:relative; top:-65px }
 .apartment .apartment-slider .card-info{ color:#fff; font-weight:300 }
-.apartment .apartment-slider tr{ display: flex;justify-content: space-between; color:#fff;     border: none; }
+.apartment .apartment-slider tr{ display: flex;justify-content: space-between; color:#fff;     border: none; padding: 0; }
 .apartment .apartment-slider table{  width:100% }
 .apartment .apartment-slider tr td:first-child{ position:relative; padding-left:13px }
 .apartment .apartment-slider tr td:first-child::before {
