@@ -20,30 +20,9 @@
                                             @endforeach
                                             <div class="card-body">
                                                 <div class="card-body-wrap">
-                                                    <h5 class="card-title"><span>DT thông thủy | 52.7 m2</span></h5>
-                                                    <div class="card-info" title="">
-                                                        <table>
-                                                            <tr>
-                                                                <td>Phòng Khách + Bếp + Ăn</td>
-                                                                <td>: 22.5 m<sup>2</sup> </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>Phòng ngủ 1</td>
-                                                                <td>: 13.1 m<sup>2</sup></td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>Phòng chức năng</td>
-                                                                <td>: 6.7 m<sup>2</sup></td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>Logia</td>
-                                                                <td>: 3.7 m<sup>2</sup></td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>WC</td>
-                                                                <td>: 5.2 m<sup>2</sup></td>
-                                                            </tr>
-                                                        </table>
+                                                    <h5 class="card-title"><span>{{$val->heading}}</span></h5>
+                                                    <div class="card-info">
+                                                        {{$val->content}}
                                                     </div>
                                                 </div>
                                                 <div class="button">
