@@ -8,8 +8,8 @@
 
 @section('css')
 <link href="assets/css/home.css" rel="stylesheet">
-
 <link href="assets/css/myswiper.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css" />
 @endsection
 
 @section('content')
@@ -112,5 +112,5 @@
     });
 
 </script>
-
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script>
 @endsection

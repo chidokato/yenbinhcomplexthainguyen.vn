@@ -16,7 +16,11 @@
                                     <div class="col">
                                         <div class="card card-s card-s4 ">
                                             @foreach($val->Images as $img)
-                                            <span><img src="data/images/{{$img->img}}" ></span>
+                                            <span>
+                                                <a data-fancybox="canho" href="data/images/{{$img->img}}">
+                                                    <img src="data/images/{{$img->img}}" >
+                                                </a>
+                                            </span>
                                             @endforeach
                                             <div class="card-body">
                                                 <div class="card-body-wrap">

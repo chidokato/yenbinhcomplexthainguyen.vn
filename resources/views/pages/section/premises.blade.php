@@ -4,11 +4,31 @@
             <div class="col-md-6">
                 <div class="swiper mySwiper">
                     <div class="swiper-wrapper">
-                        <div class="swiper-slide"><img src="assets/images/noithat/A.jpg"></div>
-                        <div class="swiper-slide"><img src="assets/images/noithat/B.jpg"></div>
-                        <div class="swiper-slide"><img src="assets/images/noithat/C.jpg"></div>
-                        <div class="swiper-slide"><img src="assets/images/noithat/D.jpg"></div>
-                        <div class="swiper-slide"><img src="assets/images/noithat/F.jpg"></div>
+                        <div class="swiper-slide">
+                            <a data-fancybox="mat-bang" href="assets/images/noithat/A.jpg">
+                                <img src="assets/images/noithat/A.jpg"/>
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+                            <a data-fancybox="mat-bang" href="assets/images/noithat/B.jpg">
+                                <img src="assets/images/noithat/A.jpg"/>
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+                            <a data-fancybox="mat-bang" href="assets/images/noithat/C.jpg">
+                                <img src="assets/images/noithat/A.jpg"/>
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+                            <a data-fancybox="mat-bang" href="assets/images/noithat/D.jpg">
+                                <img src="assets/images/noithat/A.jpg"/>
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+                            <a data-fancybox="mat-bang" href="assets/images/noithat/F.jpg">
+                                <img src="assets/images/noithat/A.jpg"/>
+                            </a>
+                        </div>
                     </div>
                     <div class="swiper-button-next"><img src="assets/images/60.png"></div>
                     <!-- <div class="swiper-button-prev"></div> -->
