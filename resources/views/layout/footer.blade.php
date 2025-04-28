@@ -34,7 +34,7 @@
     <div class="col-md-12">
       <hr class="line">
     </div>
-    <div class="col-md-12">
+    <!-- <div class="col-md-12">
       <div class="s1111">
         <div class="s1112">
           <img src="assets/images/59.png">
@@ -49,7 +49,7 @@
           <p class="gradient-text">0901.789.182</p>
         </div>
       </div>
-    </div>
+    </div> -->
   </div>
 </div>
 </footer>
