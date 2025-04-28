@@ -71,7 +71,7 @@
                     <img src="assets/images/6.png">
                     <div class="iteam">
                         <p>MẬT ĐỘ XÂY DỰNG:</p>
-                        <p>~41.08%</p>
+                        <p>~46.04%</p>
                     </div>
                 </div>
             </div>
@@ -89,7 +89,7 @@
                     <img src="assets/images/8.png">
                     <div class="iteam">
                         <p>THỜI ĐIỂM KÝ HĐMB:</p>
-                        <p>15/5/2025</p>
+                        <p>05/2025</p>
                     </div>
                 </div>
             </div>
