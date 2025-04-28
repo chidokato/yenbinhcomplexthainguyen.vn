@@ -114,6 +114,10 @@ $('#diadiem').on('click', function(event) {
     $('.list-diadiem').toggleClass('active');
 });
 
+$(".menu-iteam ul li a").click(function(event) {
+    $(".menu-left").removeClass("active");
+});
+
 
 // ngôn ngữ
 

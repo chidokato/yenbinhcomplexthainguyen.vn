@@ -165,6 +165,12 @@ $(".close .btn-close").click(function(event) {
     $(".overlay").hide();
 });
 
+$(".menu-iteam ul li a").click(function(event) {
+    alert('ok');
+    $(".menu-left").removeClass("active");
+});
+
+
 $(document).ready(function() {
     $("[data-fancybox='gallery']").fancybox({
         thumbs: {
@@ -173,6 +179,8 @@ $(document).ready(function() {
         }
     });
 });
+
+
 
 var swiper = new Swiper(".swiper.gallery-mobile", {
     slidesPerView: 1,
