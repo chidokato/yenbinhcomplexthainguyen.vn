@@ -41,7 +41,7 @@
                 <div class="menu-iteam">
                     <ul>
                         @foreach($menu as $key => $val)
-                        <li><a href="">{{$val->name}}</a></li>
+                        <li><a href="{{$val->slug}}">{{$val->name}}</a></li>
                         @endforeach
                     </ul>
                 </div>
