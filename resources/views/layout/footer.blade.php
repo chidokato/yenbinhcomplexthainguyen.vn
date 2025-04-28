@@ -1,5 +1,5 @@
 <!------------------- FOOTER ------------------->
-<footer>
+<footer id="lien-he">
 <!-- <div id="particles-js"></div> -->
 <div class="container">
   <div class="row">

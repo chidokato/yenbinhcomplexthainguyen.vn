@@ -1,4 +1,4 @@
-<section class="outstanding">
+<section class="outstanding" id="gia-tri-noi-bat">
     <div class="container">
         <div class="row">
             <div class="col-md-12 ">

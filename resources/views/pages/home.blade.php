@@ -19,11 +19,8 @@
 @include('layout.header')
 
 @include('pages.section.slider')
-
 @include('pages.section.overview')
-
 @include('pages.section.outstanding')
-
 @include('pages.section.location')
 @include('pages.section.utilities')
 @include('pages.section.premises')

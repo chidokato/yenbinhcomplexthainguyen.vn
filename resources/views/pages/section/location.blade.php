@@ -1,4 +1,4 @@
-<section class="location">
+<section class="location" id="vi-tri">
     <div class="container">
         <div class="row">
             <div class="col-md-4 ">
@@ -14,6 +14,9 @@
                 <div class="img">
                     <img src="assets/images/13.png">
                 </div>
+            </div>
+            <div class="col-md-12 mt-5">
+                <img src="assets/images/Artboard.png">
             </div>
         </div>
     </div>
