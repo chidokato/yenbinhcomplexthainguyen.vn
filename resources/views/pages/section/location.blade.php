@@ -16,7 +16,7 @@
                 </div>
             </div>
             <div class="col-md-12 mt-5">
-                <img src="assets/images/Artboard.png">
+                <img class="r234" src="assets/images/Artboard.png">
             </div>
         </div>
     </div>

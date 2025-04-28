@@ -287,7 +287,7 @@ input:focus::placeholder{opacity: 1 !important;}
 .location{ padding:5rem 0 }
 .location .img img{ width:100% }
 .location .desc{ text-align:justify; font-size:1.3rem; font-weight:300; line-height:2.1rem;  }
-
+.r234{ width:100% }
 .location .vr360{ color:#fff; font-size:1.4rem; border:1px solid #fff; padding:1.5rem; width:100%; border-radius:30px; margin:0 auto; }
 .location .vr360 img{ height:60px; }
 /*potential*/
