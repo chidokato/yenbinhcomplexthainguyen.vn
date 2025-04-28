@@ -289,7 +289,7 @@ input:focus::placeholder{opacity: 1 !important;}
 .location .desc{ text-align:justify; font-size:1.3rem; font-weight:300; line-height:2.1rem;  }
 
 .location .vr360{ color:#fff; font-size:1.4rem; border:1px solid #fff; padding:2rem; width:100%; border-radius:30px; margin:0 auto; }
-.location .vr360 img{ height:80px; margin-top:2rem }
+.location .vr360 img{ height:80px; }
 /*potential*/
 .potential{ padding:5rem 0 }
 /*.potential .desc{ display:flex; border-radius:40px; width:80%; margin:auto; background: linear-gradient(to bottom right, #003f33, #008b84); }*/
