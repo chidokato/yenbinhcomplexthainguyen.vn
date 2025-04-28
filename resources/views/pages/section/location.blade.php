@@ -8,7 +8,7 @@
             	<div class="desc mt-4">
             		<p>Khẳng định vị thế tâm điểm kết nối của TP. Phổ Yên, dự án Yên Bình Complex tọa lạc tại vị trí đắc địa ngay gần nút giao Yên Bình - Vành đai 5. Vị trí cửa ngõ chiến lược này, cùng mạng lưới giao thông huyết mạch đồng bộ, dễ dàng tiếp cận QL3 và Cao tốc Hà Nội – Thái Nguyên, mang đến tiềm năng phát triển và gia  ăng giá trị vượt trội cho dự án.</p>
             	</div>
-                <div style="text-align: center;"><a class="vr360" target="_blank" href="https://kuula.co/share/hX6Lh?logo=0&info=1&fs=1&vr=0&sd=1&thumbs=1"> <img src="assets/images/360.png"> Trải nghiệm thực tế </a></div>
+                <div style="text-align: center;"><a class="vr360" target="_blank" href="http://vr360.yenbinhcomplexthainguyen.vn/"> <img src="assets/images/360.png"> Trải nghiệm thực tế </a></div>
             </div>
             <div class="col-md-8">
                 <div class="img">

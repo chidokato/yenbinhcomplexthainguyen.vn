@@ -113,4 +113,6 @@
 
 </script>
 <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script>
+
+
 @endsection
