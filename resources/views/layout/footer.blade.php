@@ -25,7 +25,7 @@
     <div class="col-md-5">
       <div class="contact-main">
         <ul>
-          <li><img src="assets/images/53.png"> Phường Đông Tiến, Thành phố Phổ Yên, Tính Thái Nguyên</li>
+          <li><img src="assets/images/53.png"> Phường Đồng Tiến và Phường Tân Hương, Thành phố Phổ Yên, Tỉnh Thái Nguyên</li>
           <li><a href=""><img src="assets/images/54.png"> Email@gmail.com</a></li>
           <li><a href=""><img src="assets/images/55.png"> Google maps</a></li>
         </ul>
