@@ -22,7 +22,7 @@
                                                 <div class="card-body-wrap">
                                                     <h5 class="card-title"><span>{{$val->heading}}</span></h5>
                                                     <div class="card-info">
-                                                        {{$val->content}}
+                                                        {!! $val->content !!}
                                                     </div>
                                                 </div>
                                                 <div class="button">
