@@ -96,7 +96,7 @@
                 <div class="iteam-row">
                     <img src="assets/images/6.png">
                     <div class="iteam">
-                        <p>MẬT ĐỘ XÂY DỰNG:</p>
+                        <p>MẬT ĐỘ XÂY DỰNG KHỐI THÁP:</p>
                         <p>46.4%</p>
                     </div>
                 </div>
