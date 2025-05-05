@@ -406,7 +406,7 @@ input:focus::placeholder{opacity: 1 !important;}
 .apartment .card-s .card-title{ margin-bottom:1rem }
 .apartment .card-s .card-title span{ font-weight:300; font-size:1.2rem; border-radius:20px; border:1px solid #fff; width:auto; background:none; padding:10px 20px; margin:0 }
 .apartment .button{ text-align:right; }
-.apartment .button button{background: linear-gradient(to bottom right, #3b7384, #52aa74); color: #fff; font-size: 2rem; padding: 1.4rem; font-weight: bold;}
+.apartment .button button{background: linear-gradient(to bottom right, #3b7384, #52aa74); color: #fff; font-size: 1.5rem; padding: 1.4rem; font-weight: bold;}
 
 /*policy*/
 .policy{ padding:5rem 0 }
@@ -464,6 +464,9 @@ input:focus::placeholder{opacity: 1 !important;}
 
     .sec-partner-hp .card-slide-style-1 .card-slide-content {margin-left: -1vw;padding-left: 4vw;padding-right: 10px;}
     .sec-partner-hp .card-slide-style-1 > span {width: 20%;}
+
+    .apartment .apartment-slider{ width:100% }
+    .apartment .button button{    padding: 1rem .7rem;}
 }
 
 @media (max-width: 990px) {
@@ -527,6 +530,7 @@ input:focus::placeholder{opacity: 1 !important;}
 @media (max-width: 820px) {
     .sec-partner-hp .card-slide-style-1 .card-slide-content {padding-left: 6vw;}
     .offcanvas {z-index: 10000; transform: translateX(100%);}
+
 }
 @media (max-width: 768px) {
     .sec-broker-hp {padding-bottom:32px; padding-top:32px; background: #f5f5f5}
