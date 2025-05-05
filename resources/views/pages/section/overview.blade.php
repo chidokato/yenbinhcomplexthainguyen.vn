@@ -44,7 +44,7 @@
                         <p>SỐ TẦNG:</p>
                         <p>02 tòa tháp</p>
                         <p>20 tầng nổi</p>
-                        <p>20 tầng hầm</p>
+                        <p>02 tầng hầm</p>
                     </div>
                 </div>
             </div>
