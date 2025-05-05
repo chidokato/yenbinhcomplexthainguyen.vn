@@ -11,22 +11,22 @@
                         </div>
                         <div class="swiper-slide">
                             <a data-fancybox="mat-bang" href="assets/images/noithat/B.jpg">
-                                <img src="assets/images/noithat/A.jpg"/>
+                                <img src="assets/images/noithat/B.jpg"/>
                             </a>
                         </div>
                         <div class="swiper-slide">
                             <a data-fancybox="mat-bang" href="assets/images/noithat/C.jpg">
-                                <img src="assets/images/noithat/A.jpg"/>
+                                <img src="assets/images/noithat/C.jpg"/>
                             </a>
                         </div>
                         <div class="swiper-slide">
                             <a data-fancybox="mat-bang" href="assets/images/noithat/D.jpg">
-                                <img src="assets/images/noithat/A.jpg"/>
+                                <img src="assets/images/noithat/D.jpg"/>
                             </a>
                         </div>
                         <div class="swiper-slide">
                             <a data-fancybox="mat-bang" href="assets/images/noithat/F.jpg">
-                                <img src="assets/images/noithat/A.jpg"/>
+                                <img src="assets/images/noithat/F.jpg"/>
                             </a>
                         </div>
                     </div>
