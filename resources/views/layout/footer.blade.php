@@ -26,8 +26,8 @@
       <div class="contact-main">
         <ul>
           <li><img src="assets/images/53.png"> Phường Đồng Tiến và Phường Tân Hương, Thành phố Phổ Yên, Tỉnh Thái Nguyên</li>
-          <li><a href=""><img src="assets/images/54.png"> Email@gmail.com</a></li>
-          <li><a href=""><img src="assets/images/55.png"> Google maps</a></li>
+          <li><a href=""><img src="assets/images/54.png"> chinhanhyenbinhxuanmai@gmail.com</a></li>
+          <li><a href="tel:0865041185"><img src="assets/images/55.png"> 0865 041 185</a></li>
         </ul>
       </div>
     </div>
