@@ -106,7 +106,7 @@
                     <img src="assets/images/7.png">
                     <div class="iteam">
                         <p>PHÁP LÝ:</p>
-                        <p>Sổ đỏ sở hữu lâu dài</p>
+                        <p>Sở hữu lâu dài</p>
                     </div>
                 </div>
             </div>
