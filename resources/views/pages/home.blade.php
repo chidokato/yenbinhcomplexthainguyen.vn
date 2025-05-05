@@ -132,10 +132,53 @@
     </div>
 </section>
 
+<section class="outstanding" id="gia-tri-noi-bat">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 ">
+                <div class="img mb-5 pb-4">
+                    <img src="assets/images/10.png">
+                </div>
+                <div class="img c11">
+                    <div class="desc">
+                        <p>Khám phá những giá trị độc đáo làm nên sức hấp dẫn độc nhất của Yên Bình Complex</p>
+                    </div>
+                    <img src="assets/images/61.png">
+                </div>
+            </div>
+            <!-- <div class="col-md-6">
+                <div class="content">
+                    
+                </div>
+            </div> -->
+        </div>
+    </div>
+</section>
 
-<!-- @include('pages.section.overview') -->
-@include('pages.section.outstanding')
-@include('pages.section.location')
+<section class="location" id="vi-tri">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 ">
+                <div class="img">
+                    <img src="assets/images/12.png">
+                </div>
+                <div class="desc mt-4">
+                    <p>Khẳng định vị thế tâm điểm kết nối của TP. Phổ Yên, dự án Yên Bình Complex tọa lạc tại vị trí đắc địa ngay gần nút giao Yên Bình - Vành đai 5. Vị trí cửa ngõ chiến lược này, cùng mạng lưới giao thông huyết mạch đồng bộ, dễ dàng tiếp cận QL3 và Cao tốc Hà Nội – Thái Nguyên, mang đến tiềm năng phát triển và gia  tăng giá trị vượt trội cho dự án.</p>
+                </div>
+                <div style="text-align: center;"><a class="vr360" target="_blank" href="http://vr360.yenbinhcomplexthainguyen.vn/"> <img src="assets/images/360.png"> Trải nghiệm thực tế </a></div>
+            </div>
+            <div class="col-md-8">
+                <div class="img">
+                    <img src="assets/images/13.png">
+                </div>
+            </div>
+            <div class="col-md-12 mt-5">
+                <img class="r234" src="assets/images/63.png">
+            </div>
+        </div>
+    </div>
+</section>
+
 
 <section class="potential">
     <div class="container">
@@ -236,10 +279,153 @@
 
 <hr class="line">
 
-<!-- @include('pages.section.utilities') -->
-@include('pages.section.premises')
-@include('pages.section.apartment')
-@include('pages.section.policy')
+<section class="premises" id="mat-bang">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="swiper mySwiper">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <a data-fancybox="gallery1" data-thumb="false" href="assets/images/noithat/A.jpg">
+                                <img src="assets/images/noithat/A.jpg"/>
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+                            <a data-fancybox="gallery2" data-thumb="false" href="assets/images/noithat/B.jpg">
+                                <img src="assets/images/noithat/B.jpg"/>
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+                            <a data-fancybox="gallery3" data-thumb="false" href="assets/images/noithat/C.jpg">
+                                <img src="assets/images/noithat/C.jpg"/>
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+                            <a data-fancybox="gallery4" data-thumb="false" href="assets/images/noithat/D.jpg">
+                                <img src="assets/images/noithat/D.jpg"/>
+                            </a>
+                        </div>
+                        <div class="swiper-slide">
+                            <a data-fancybox="gallery5" data-thumb="false" href="assets/images/noithat/F.jpg">
+                                <img src="assets/images/noithat/F.jpg"/>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="swiper-button-next"><img src="assets/images/60.png"></div>
+                    <!-- <div class="swiper-button-prev"></div> -->
+                </div>
+            </div>
+            <div class="col-md-6 right">
+                <div class="content">
+                    <div class="title-wrapper">
+                        <div class="w3123">TỔNG QUAN</div>
+                        <div class="chitiet"> <span class="a234234"></span> <span class="s23234">CHI TIẾT</span></div>
+                    </div>
+                    <h3 class="gradient-text">MẶT BẰNG TẦNG</h3>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="r345345">
+                    <ul>
+                        <li>
+                            <div class="t23423 mau1"></div>
+                            <p>3PN</p>
+                        </li>
+                        <li>
+                            <div class="t23423 mau2"></div>
+                            <p>2PN+</p>
+                        </li>
+                        <li>
+                            <div class="t23423 mau3"></div>
+                            <p>2PN</p>
+                        </li>
+                        <li>
+                            <div class="t23423 mau4"></div>
+                            <p>1PN+</p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="apartment">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="gradient-text"> CÁC LOẠI HÌNH CĂN HỘ </h2>
+                <div class="desc">
+                    <p>Linh hoạt lựa chọn với bộ sưu tập căn hộ 1-3PN thiết kế tinh tế, tối ưu diện tích. Dù là kiến tạo không gian sống đẳng cấp hay tìm kiếm cơ hội đầu tư thông thái, hiệu quả, mỗi căn hộ đều là lựa chọn hoàn hảo, đáp ứng trọn vẹn mọi phong cách sống.</p>
+                </div>
+
+                <div class="apartment-slider">
+                    <div class="position-relative grid-view">
+                        <div class="swiper">
+                            <div class="swiper-wrapper">
+                                @foreach($canho as $val)
+                                <div class="swiper-slide">
+                                    <div class="col">
+                                        <div class="card card-s card-s4 ">
+                                            @foreach($val->Images as $img)
+                                            <span>
+                                                <a data-fancybox="canho{{$img->id}}" data-thumb="false" href="data/images/{{$img->img}}">
+                                                    <img src="data/images/{{$img->img}}" >
+                                                </a>
+                                            </span>
+                                            @endforeach
+                                            <div class="card-body">
+                                                <div class="card-body-wrap">
+                                                    <h5 class="card-title"><span>{{$val->heading}}</span></h5>
+                                                    <div class="card-info">
+                                                        {!! $val->content !!}
+                                                    </div>
+                                                </div>
+                                                <div class="button">
+                                                    <button class="btn-button">{{$val->tab}}</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                @endforeach
+                            </div>
+                        </div>
+                        <!-- <div class="swiper-button-next"></div> -->
+                        <!-- <div class="swiper-button-prev"></div> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="policy">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="img">
+                    <img src="assets/images/47.png">
+                </div>
+            </div>
+            <div class="col-md-6">
+                <h2 class=""> CHÍNH THỨC MỞ BÁN <span class="gradient-text"> TÒA THE RISE </span> </h2>
+                <h4>GIAI ĐOẠN 1</h4>
+                <div class="content">
+                    <ul>
+                        <li><img src="assets/images/11.png"> <div><span>700&nbsp;</span>căn hộ thương mại</div></li>
+                        <li><img src="assets/images/49.png"> <div>Mức giá tuyệt chủng: Chỉ từ<span>&nbsp;21 triệu</span>/m<sup>2</sup></div> </li>
+                        <li><img src="assets/images/50.png"> <div>Vốn cực nhỏ: chỉ từ<span>&nbsp;399 triệu</span>/căn</div> </li>
+                        <li><img src="assets/images/52.png"> <div>Vị trí trung tâm thành phố Phổ Yên</div></li>
+                        <li><img src="assets/images/51.png"> <div>Sở hữu lâu dài</div></li>
+                    </ul>
+                </div>
+                
+            </div>
+            
+        </div>
+    </div>
+</section>
 
 @endsection
 

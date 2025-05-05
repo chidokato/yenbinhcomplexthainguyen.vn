@@ -17,7 +17,7 @@
                                         <div class="card card-s card-s4 ">
                                             @foreach($val->Images as $img)
                                             <span>
-                                                <a data-fancybox="canho" href="data/images/{{$img->img}}">
+                                                <a data-fancybox="canho{{$img->id}}" data-thumb="false" href="data/images/{{$img->img}}">
                                                     <img src="data/images/{{$img->img}}" >
                                                 </a>
                                             </span>
