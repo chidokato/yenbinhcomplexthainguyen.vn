@@ -97,7 +97,7 @@
                     <img src="assets/images/6.png">
                     <div class="iteam">
                         <p>MẬT ĐỘ XÂY DỰNG:</p>
-                        <p>~46.04%</p>
+                        <p>~46.4%</p>
                     </div>
                 </div>
             </div>
