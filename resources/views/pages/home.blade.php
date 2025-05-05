@@ -115,7 +115,7 @@
                     <img src="assets/images/8.png">
                     <div class="iteam">
                         <p>THỜI ĐIỂM KÝ HĐMB:</p>
-                        <p>05/2025</p>
+                        <p>Tháng 05/2025</p>
                     </div>
                 </div>
             </div>
