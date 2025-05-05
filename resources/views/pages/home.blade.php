@@ -369,7 +369,7 @@
                                         <div class="card card-s card-s4 ">
                                             @foreach($val->Images as $img)
                                             <span>
-                                                <a data-fancybox="canho{{$img->id}}" data-thumb="false" href="data/images/{{$img->img}}">
+                                                <a data-fancybox="canho{{$img->id}}" data-swiper-no-swiping="true" data-fancybox-trigger="click" href="data/images/{{$img->img}}">
                                                     <img src="data/images/{{$img->img}}" >
                                                 </a>
                                             </span>
@@ -467,10 +467,11 @@
 
     var swiper7 = new Swiper(".apartment-slider .swiper", {
         slidesPerView: 3,
-        loop: true,
+        loop: false,
         spaceBetween: 30,
         grabCursor: true,
         centeredSlides: true,
+        initialSlide: 1, 
         effect: "coverflow",
         coverflowEffect: {
             rotate: 0,
@@ -513,26 +514,21 @@
 
 </script>
 <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script>
-<script>
-  Fancybox.bind('[data-fancybox="gallery"]', {
-    animated: false,
-    Images: {
-      zoom: false
-    },
-    Toolbar: {
-      display: [
-        "close"
-      ]
-    },
-    Carousel: {
-      infinite: true,
-      // Ngăn thumbnail xuất hiện dưới popup
-      thumbnails: {
-        show: false
-      }
-    }
-  });
-</script>
+<script type="text/javascript">
 
+document.addEventListener("DOMContentLoaded", function () {
+    // Lọc tất cả các ảnh có data-fancybox mà KHÔNG nằm trong swiper-slide-duplicate
+    const fancyboxItems = Array.from(document.querySelectorAll('[data-fancybox]')).filter(el => {
+        return !el.closest('.swiper-slide-duplicate');
+    });
+
+    // Khởi tạo Fancybox
+    Fancybox.bind(fancyboxItems, {
+        // Các tuỳ chọn nếu cần
+    });
+});
+
+
+</script>
 
 @endsection
