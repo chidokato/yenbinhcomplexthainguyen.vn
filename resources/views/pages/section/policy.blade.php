@@ -15,7 +15,7 @@
                         <li><img src="assets/images/49.png"> <div>Mức giá tuyệt chủng: Chỉ từ<span>&nbsp;21 triệu</span>/m<sup>2</sup></div> </li>
                         <li><img src="assets/images/50.png"> <div>Vốn cực nhỏ: chỉ từ<span>&nbsp;399 triệu</span>/căn</div> </li>
                         <li><img src="assets/images/52.png"> <div>Vị trí trung tâm thành phố Phổ Yên</div></li>
-                        <li><img src="assets/images/51.png"> <div>Sổ đỏ trao tay, sở hữu lâu dài</div></li>
+                        <li><img src="assets/images/51.png"> <div>Sở hữu lâu dài</div></li>
                     </ul>
                 </div>
                 

@@ -267,7 +267,7 @@ input:focus::placeholder{opacity: 1 !important;}
 /*OVERVIEW*/
 .overview{ padding:5rem 0 }
 .overview .img img{ width:76% }
-.overview table tr td{ color:#fff; font-weight:300; font-size:1.2rem; padding:30px 0px; line-height:1.6rem }
+.overview table tr td{ color:#fff; font-weight:300; font-size:1.2rem; padding:22px 0px; line-height:1.6rem }
 .overview table tr td span{ font-weight:bold; font-size:1.7rem }
 .overview table{ width:100% }
 .overview table tr{ border-bottom:1px solid #fff; }
@@ -373,6 +373,10 @@ input:focus::placeholder{opacity: 1 !important;}
 .mau2{ background:#e6ea93 }
 .mau3{ background:#68a882 }
 .mau4{ background:#f3837e }
+
+
+
+
 
 /*apartment*/
 .apartment{ padding:0 }

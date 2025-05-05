@@ -113,6 +113,26 @@
 
 </script>
 <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script>
+<script>
+  Fancybox.bind('[data-fancybox="gallery"]', {
+    animated: false,
+    Images: {
+      zoom: false
+    },
+    Toolbar: {
+      display: [
+        "close"
+      ]
+    },
+    Carousel: {
+      infinite: true,
+      // Ngăn thumbnail xuất hiện dưới popup
+      thumbnails: {
+        show: false
+      }
+    }
+  });
+</script>
 
 
 @endsection

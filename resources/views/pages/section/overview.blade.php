@@ -18,6 +18,10 @@
                             <td>Công ty Cổ phần phát triển đô thị Yên Bình <br> Chi nhánh Yên Bình Xuân Mai</td>
                         </tr>
                         <tr>
+                            <td><span>Liên danh HTĐT <br> Tổng thầu EPC <br> Đơn vị PTDA:</span></td>
+                            <td>Công ty Cổ phần Đầu tư và Xây dựng Xuân Mai</td>
+                        </tr>
+                        <tr>
                             <td><span>VỊ TRÍ:</span></td>
                             <td>Phường Đồng Tiến và Phường Tân Hương, <br> Thành phố Phổ Yên, Tỉnh Thái Nguyên</td>
                         </tr>
