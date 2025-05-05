@@ -30,6 +30,8 @@ use App\Http\Controllers\AjaxController;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\HomeSystemController;
 
+use App\Http\Controllers\RegisterController;
+
 Route::group(['prefix' => 'laravel-filemanager', 'middleware' => ['web', 'auth']], function () {
      \UniSharp\LaravelFilemanager\Lfm::routes();
  });
@@ -157,4 +159,5 @@ Route::get('sitemap.xml', [HomeController::class, 'sitemap'])->name('sitemap');
 Route::get('{slug}', [HomeController::class, 'category']);
 Route::get('{catslug}/{slug}', [HomeController::class, 'post']);
 
+Route::post('/registrationform', [RegisterController::class, 'store'])->name('register.store');
 

@@ -8,18 +8,19 @@
         <span class="a234234"></span>
       </h3>
       <div class="form-main">
-        <form>
-          <div class="row">
-            <div class="col-md-6 form">
-              <input class="form-control" type="text" name="name" placeholder="Họ & Tên">
-              <input class="form-control" type="text" name="phone" placeholder="Số điện thoại">
-              <input class="form-control" type="text" name="email" placeholder="Email">
-            </div>
-            <div class="col-md-6 button">
-              <button>ĐĂNG KÝ</button>
-            </div>
-          </div>
-        </form>
+        <form action="{{ route('register.store') }}" method="POST">
+  @csrf
+  <div class="row">
+    <div class="col-md-6 form">
+      <input class="form-control" type="text" name="name" placeholder="Họ & Tên">
+      <input class="form-control" type="text" name="phone" placeholder="Số điện thoại">
+      <input class="form-control" type="text" name="email" placeholder="Email">
+    </div>
+    <div class="col-md-6 button">
+      <button type="submit">ĐĂNG KÝ</button>
+    </div>
+  </div>
+</form>
       </div>
     </div>
     <div class="col-md-5">
