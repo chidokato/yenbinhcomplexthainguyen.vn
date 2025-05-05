@@ -50,6 +50,20 @@
     <link href="assets/css/responsive.css" rel="stylesheet">
         
     @yield('css')
+
+    <style type="text/css">
+        .alert-custom {
+    padding: 15px 20px;
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    font-size: 16px;
+    position: relative;
+    transition: opacity 0.5s ease;
+}
+    </style>
     
 </head>
 
@@ -72,10 +86,20 @@
     @yield('js')
 
     @if (Session::has('success'))
-    <div class="alert alert-success">
-    {{ Session::get('success') }}
+    <div class="alert alert-success alert-custom" id="success-alert">
+        {{ Session::get('success') }}
     </div>
-    @endif
+@endif
+
+    <script>
+        setTimeout(function () {
+            const alert = document.getElementById('success-alert');
+            if (alert) {
+                alert.style.opacity = '0';
+                setTimeout(() => alert.remove(), 500); // xóa khỏi DOM sau khi ẩn
+            }
+        }, 5000); // 5 giây
+    </script>
 
 </body>
 
