@@ -60,7 +60,7 @@ footer .a234234:before{ font-size: 4rem;bottom: 1px;left: -36px;top:auto; }
 .form-main input{ margin:1rem 0; padding:0.7rem }
 .form-main .button{ display:flex;     align-items: center; justify-content: center; }
 .form-main .button button{ padding:1rem; font-size:2rem; border:none; border-radius:10px; background: linear-gradient(to bottom right, #70aac8, #52aa74); }
-.contact-main{ height:100%; display:flex; align-items:flex-end; padding-bottom:4rem }
+.contact-main{ height:100%; display:flex; align-items:flex-end; padding-bottom:1rem }
 .contact-main ul li{ font-size:1.2rem; color:#fff; font-weight:300; display:flex; align-items:center; margin:.5rem  }
 .contact-main ul li a{ color:#54aa7a; font-weight:300 }
 .contact-main ul{ display:flex; flex-direction: column; }
