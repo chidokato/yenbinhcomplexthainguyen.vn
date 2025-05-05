@@ -80,8 +80,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <div class="title mb-2">HỆ THỐNG GIÁO DỤC CHUẨN QUỐC TẾ</div>
-                <p>Trường học liên cấp tiêu chuẩn quốc tế</p>
+                <div class="title mb-2">HỆ THỐNG GIÁO DỤC TOÀN DIỆN</div>
+                <p>Trường mầm non, tiểu học, THCS... hiện đại với đội ngũ giáo viên chuyên nghiệp.</p>
                 <div class="img"><img src="assets/images/46.png"></div>
             </div>
             <div class="col-md-6">
