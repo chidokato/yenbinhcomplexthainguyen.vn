@@ -101,6 +101,15 @@
         }, 5000); // 5 giây
     </script>
 
+
+    <!-- Admicro Tag Manager -->
+    <script> (function(a, b, d, c, e) { a[c] = a[c] || [];
+    a[c].push({ "atm.start": (new Date).getTime(), event: "atm.js" });
+    a = b.getElementsByTagName(d)[0]; b = b.createElement(d); b.async = !0;
+    b.src = "//deqik.com/tag/corejs/" + e + ".js"; a.parentNode.insertBefore(b, a)
+    })(window, document, "script", "atmDataLayer", "ATME0DM1WTK12");</script>
+    <!-- End Admicro Tag Manager -->
+
 </body>
 
 </html>
